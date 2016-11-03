@@ -32,8 +32,12 @@
   "homepage": "https://github.com/muan/emojilib#readme",
   "devDependencies": {
     "JSONStream": "^1.0.4",
+    "async": "^2.1.2",
     "escape-string-regexp": "^1.0.4",
     "format-json-stream": "^0.1.5",
-    "phantomjs": "^1.9.17"
+    "limiter": "^1.1.0",
+    "path-exists": "^3.0.0",
+    "phantomjs": "^1.9.17",
+    "powerthesaurus-api": "^1.0.0"
   }
 }
